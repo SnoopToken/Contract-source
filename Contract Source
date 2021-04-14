@@ -1,8 +1,35 @@
 /**
- *Submitted for verification at BscScan.com on 2021-04-09
+ *Submitted for verification at BscScan.com on 2021-04-14
+ * 
+             _.--""-.
+         .--"        `.
+        /              \
+       :            .   ;
+       ;            :   |
+      ::    .       ::  :
+      ::. .:'       ':.  ;
+      ;::::' __.._   ::. :
+     /  __.g$$$$$$""gp.._'-._
+   .'.g$$$$$$$$$P   T$-.:""-/
+   '-.T$$P`T$$P'     ");|.-'
+         T         .-  ,-'
+        l _,     /    ;\.-"\
+        a$$ba.       /  ;   `-.
+        T"--"T     .'   : \_, :
+         Y""-  _.-"  '  ;  )' ;"-._
+        .:b..gdP    /  / .'  /     "-.
+       / 'T$$P"   .' .'    .'         `.
+    _.-`.  \  \    .'   .-"             \
+  .'     "-.)_ `.-"  .-"                 ;
+              "-._.-"                    :
+
 */
 
 // Official contract of SnoopToken (t.me/snooptoken)
+// Deflationary token
+// 420 SNOOP tokens initial supply
+// 4.2% from each transaction is burned
+
 
 pragma solidity ^0.6.0;
 
