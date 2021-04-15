@@ -28,7 +28,8 @@
 // Official contract of SnoopToken (t.me/snooptoken)
 // Deflationary token
 // 420 SNOOP tokens initial supply
-// 4.2% from each transaction is burned
+// 4.20% from each transaction is burned
+// 4.20% distributed to token SNOOP holders
 
 
 pragma solidity ^0.6.0;
